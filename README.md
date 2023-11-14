@@ -6,9 +6,9 @@ A blazingly bad VIM config.
 
 <div align="center">
   
-<img src="https://img.shields.io/github/stars/vingh1/chadvi?color=e57474&labelColor=1e2528&style=for-the-badge"> <img src="https://img.shields.io/github/issues/vingh1/chadvi?color=67b0e8&labelColor=1e2528&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/vikvss/chadvi?color=e57474&labelColor=1e2528&style=for-the-badge"> <img src="https://img.shields.io/github/issues/vikvss/chadvi?color=67b0e8&labelColor=1e2528&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=1e2528&style=for-the-badge">
-<img src="https://img.shields.io/github/forks/vingh1/chadvi?color=e5c76b&labelColor=1e2528&style=for-the-badge">
+<img src="https://img.shields.io/github/forks/vikvss/chadvi?color=e5c76b&labelColor=1e2528&style=for-the-badge">
 <br>
 
 </div>
@@ -24,7 +24,7 @@ A VIM configuration that looks good and is quite fast.
 
 Just copy the .vimrc and .vimrc.plug to home 
 ```
-~ $ git clone --depth 1 https://github.com/vingh1/chadvi ~/
+~ $ git clone --depth 1 https://github.com/vikvss/chadvi ~/
 ```
 
 [Download plug.vim](https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim)
